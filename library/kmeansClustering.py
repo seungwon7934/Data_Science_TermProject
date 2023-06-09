@@ -1,2 +1,0 @@
-def kmeansClusteingTest():
-    print("test")
