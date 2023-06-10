@@ -7,6 +7,6 @@ setup(
     url='https://github.com/seungwon7934/Data_Science_TermProject',
     author='SeungwonLee',
     author_email='sw7934@gmail.com',
-    install_requires=['scikit-learn', 'numpy', 'pandas', 'seaborn', 'matplotlib', 'yellowbrick'],
+    install_requires=['scikit-learn', 'numpy', 'pandas', 'seaborn', 'matplot', 'yellowbrick','scipy','xgboost','imblean'],
     packages=['AUSFunctions']
 )
