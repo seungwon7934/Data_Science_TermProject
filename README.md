@@ -29,3 +29,22 @@
 ```
 pip install https://github.com/seungwon7934/Data_Science_TermProject.git
  ```
+# Project Structure
+```
+Data_Science_TermProject
+  │  AUS_decisionTree.py
+  │  AUS_k_means.py
+  │  AUS_preprocessing.py
+  │  README.md
+  │  requirement.txt
+  │  setup.py
+  │
+  ├─AUSFunctions
+  │      decisionTree.py
+  │      kmeansClustering.py
+  │      preprocessing.py
+  │      __init__.py
+  │
+  └─res
+         preprocessed_data.csv
+```
