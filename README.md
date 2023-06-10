@@ -26,4 +26,6 @@
 - imblean
 
 # Install
-pip install https://github.com/seungwon7934/Data_Science_TermProject.git
+```
+ $ pip install https://github.com/seungwon7934/Data_Science_TermProject.git
+ ```
